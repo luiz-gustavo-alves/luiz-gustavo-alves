@@ -1,13 +1,15 @@
-<h1 align="center">Hi there, I'm Luiz Gustavo 🤙</h1>
+<h1 align="center">Hello, I'm Luiz Gustavo 🤙</h1>
+<br>
 
-- 🔭 I’m a seventh period student of Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
+- 🔭 I’m in 7th period student of Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
 - 🌱 I’m currently learning React and Docker
 - ⚡ Fun fact: I speak 3 languages (Portuguese, English and Spanish).
 
 <hr>
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
