@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Luiz Gustavo 🤙</h1>
 <br>
 
-- 🔭 I’m in 7th period student of Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
+- 🔭 I’m 7th period student of Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
 - 🌱 I’m currently learning React and Docker
 - ⚡ Fun fact: I speak 3 languages (Portuguese, English and Spanish).
 
