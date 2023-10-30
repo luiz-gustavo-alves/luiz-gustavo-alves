@@ -1,24 +1,83 @@
-<h1 align="center">Hello, I'm Luiz Gustavo 🤙</h1>
+<h1 align="center">Hi, I'm Luiz Gustavo 👋 </h1>
 <br>
 
-- 🔭 I’m 7th period student in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Jest.
+- 🔭 I’m seventh period student in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Redis**.
 - 🌱 I’m currently learning **Docker and React Native**.
 - ⚡ Fun fact: I speak 3 languages (Portuguese, English and Spanish).
 
-<hr>
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" witdth="35" height="35" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40" title="Postgres"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" title="Git"/>
-</div>
+<hr />
+<h3 align="center">Languages and Tools</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
+        <img width="12" /> TypeScript
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript"/>
+        <img width="12" /> JavaScript
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="40" title="Node.js"/>
+        <img width="12" /> Node.js
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>
+        <img width="12" /> Express
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React"/>
+        <img width="12" /> React
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="40" title="Postgres" />
+        <img width="12" /> Postgres
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" title="HTML"/> 
+        <img width="12" /> HTML
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" title="CSS"/>
+        <img width="12" /> CSS
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="40" title="Redis"/>
+        <img width="12" /> Redis
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="40" title="Jest" />
+        <img width="12" /> Jest
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB" />
+        <img width="12"/> MongoDB
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" title="Python"/>
+        <img width="12"/> Python
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" title="C"/>
+        <img width="12"/> C
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" title="Linux"/>
+        <img width="12"/> Linux
+      </td>
+      <td>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git"/>
+        <img width="12"/> Git
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr />
 <br>
 <div align="center">
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luiz-gustavo-alves&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiz-gustavo-alves" />
