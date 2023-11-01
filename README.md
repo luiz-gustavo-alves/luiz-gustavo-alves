@@ -3,7 +3,11 @@
 
 - 🔭 I’m seventh period student in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Redis**.
 - 🌱 I’m currently learning **Docker and React Native**.
-- ⚡ Fun fact: I speak 3 languages (Portuguese, English and Spanish).
+- ⚡ Fun fact: I speak 3 languages
+    - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
+    - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
+    - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" height="20" /> Spanish
+  
 
 <hr />
 <h3 align="center">Languages and Tools</h3>
