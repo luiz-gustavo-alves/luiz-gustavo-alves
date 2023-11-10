@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Luiz Gustavo 👋 </h1>
 <br>
 
-- 🔭 I’m seventh period student in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Redis**.
+- 🔭 I’m seventh period student in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Jest**.
 - 🌱 I’m currently learning **Docker and React Native**.
 - ⚡ Fun fact: I speak 3 languages
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" height="20" /> Spanish
-  
 
 <hr />
 <h3 align="center">Languages and Tools</h3>
@@ -40,13 +39,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="40" title="Postgres" />
         <img width="12" /> Postgres
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" title="HTML"/> 
-        <img width="12" /> HTML
+       <td>
+        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="Prisma" height="40" title="Prisma" />
+        <img width="12"/> Prisma
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" title="CSS"/>
-        <img width="12" /> CSS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB" />
+        <img width="12"/> MongoDB
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="40" title="Redis"/>
@@ -59,8 +58,12 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB" />
-        <img width="12"/> MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" title="HTML"/> 
+        <img width="12" /> HTML
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" title="CSS"/>
+        <img width="12" /> CSS
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" title="Python"/>
@@ -71,17 +74,32 @@
         <img width="12"/> C
       </td>
       <td>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git"/>
+        <img width="12"/> Git
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" title="Linux"/>
         <img width="12"/> Linux
       </td>
       <td>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git"/>
-        <img width="12"/> Git
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="40" title="Figma"/>
+        <img width="12"/> Figma
+      </td>
+      <td>
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="visual Studio" height="40" title="Visual Studio"/>
+        <img width="12"/> Visual Studio
       </td>
     </tr>
   </tbody>
 </table>
 <hr />
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/luizgustavoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luizgustavoalves702@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 <br>
 <div align="center">
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luiz-gustavo-alves&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiz-gustavo-alves" />
