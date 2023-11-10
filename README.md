@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Luiz Gustavo 👋 </h1>
-<br>
+<h3 align="center">I'm Developer and Coffee Enthusiast ☕</h3>
+<h3>About Me</h3>
 
-- 🔭 I’m seventh period student in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Jest**.
+- 👀 I'm Software Developer specialized to create solutions achieving code optimization and maintainability. My journey started off as curiosity, always wondering how websites are built, and eventually this curiosity became a passion for programming. I'm self-independent, reliable, quickly adaptable and interested in latest webs and software technologies. <br><br>
+- 🔭 I'm seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Jest**.
 - 🌱 I’m currently learning **Docker and React Native**.
 - ⚡ Fun fact: I speak 3 languages
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
