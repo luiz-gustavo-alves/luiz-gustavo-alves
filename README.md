@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luiz Gustavo 👋 </h1>
 <h3 align="center">I'm Developer and Coffee Enthusiast ☕</h3>
-<h3>About Me</h3>
+<br>
 
 - 👀 I'm Software Developer specialized to create solutions achieving code optimization and maintainability. My journey started off as curiosity, always wondering how websites are built, and eventually this curiosity became a passion for programming. I'm self-independent, reliable, quickly adaptable and interested in latest webs and software technologies. <br><br>
 - 🔭 I'm seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Jest**.
