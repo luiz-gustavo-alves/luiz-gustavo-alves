@@ -2,9 +2,9 @@
 <h3 align="center">I'm Developer and Coffee Enthusiast ☕</h3>
 <br>
 
-- 👀 I'm Software Developer specialized to create solutions achieving code optimization and maintainability. My journey started off as curiosity, always wondering how websites are built, and eventually this curiosity became a passion for programming. I'm self-independent, reliable, quickly adaptable and interested in latest webs and software technologies. <br><br>
-- 🔭 I'm seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React, TypeScript and Jest**.
-- 🌱 I’m currently learning **Docker and React Native**.
+- 👀 I'm Software Developer specialized to create solutions achieving code optimization and maintainability. My journey started off as curiosity, always wondering how websites were built, and eventually this curiosity became a passion for programming. I'm quickly adaptable, self-independent and interested in latest software technologies. <br><br>
+- 🔭 I'm seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React**, **TypeScript** and **Jest**.
+- 🌱 I’m currently learning **Docker** and **React Native**.
 - ⚡ Fun fact: I speak 3 languages
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
@@ -41,13 +41,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="40" title="Postgres" />
         <img width="12" /> Postgres
       </td>
-       <td>
-        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="Prisma" height="40" title="Prisma" />
-        <img width="12"/> Prisma
-      </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB" />
         <img width="12"/> MongoDB
+      </td>
+      <td>
+        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="Prisma" height="40" title="Prisma" />
+        <img width="12"/> Prisma
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="40" title="Redis"/>
