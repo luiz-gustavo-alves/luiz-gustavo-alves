@@ -97,15 +97,16 @@
   </tbody>
 </table>
 <hr />
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/luizgustavoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:luizgustavoalves702@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 <br>
 <div align="center">
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luiz-gustavo-alves&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiz-gustavo-alves" />
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luiz-gustavo-alves&show_icons=true&locale=en&theme=radical" alt="luiz-gustavo-alves" />
+</div>
+<hr/ >
+<h3 align="center">Connect with me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/luizgustavoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luizgustavoalves702@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
