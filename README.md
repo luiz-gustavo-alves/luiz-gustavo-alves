@@ -97,7 +97,7 @@
   </tbody>
 </table>
 <hr />
-<br>
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luiz-gustavo-alves&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiz-gustavo-alves" />
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luiz-gustavo-alves&show_icons=true&locale=en&theme=radical" alt="luiz-gustavo-alves" />
