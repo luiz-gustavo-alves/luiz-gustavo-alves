@@ -1,11 +1,17 @@
-<h1 align="center">Hi, I'm Luiz Gustavo 👋 </h1>
-<h3 align="center">I'm Developer and Coffee Enthusiast ☕</h3>
-<br>
+<h1 align="center">Hello World, I'm Luiz Gustavo 👋 </h1>
+<h3 align="center">Software Developer, Bachelor in Computer Science and Coffee Enthusiast ☕</h3>
 
-- 👀 I'm Software Developer specialized to create solutions achieving code optimization and maintainability. My journey started off as curiosity, always wondering how websites were built, and eventually this curiosity became a passion for programming. I'm quickly adaptable, self-independent and interested in latest software technologies. <br><br>
-- 🔭 I'm seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/) and currently working with **React**, **TypeScript** and **Jest**.
-- 🌱 I’m currently learning **Docker** and **React Native**.
-- ⚡ Fun fact: I speak 3 languages
+<p align="center">My academic and professional career started off as curiosity, always wondering how websites were built...<br>
+...eventually, this curiosity became a passion for programming!
+</p>
+
+<hr />
+
+- 👀 I am quickly adaptable, self-independent and interested in latest software technologies.
+- 🔭 Seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/).
+- 🎯 Working with: **React**, **TypeScript**, **JavaScript**, **Postgress** and **Jest**.
+- 🌱 Currently learning **Docker** and **React Native**.
+- ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" height="20" /> Spanish
