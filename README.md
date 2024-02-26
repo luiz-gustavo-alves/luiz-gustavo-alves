@@ -10,7 +10,6 @@
 - 👀 I am quickly adaptable, self-independent and interested in latest software technologies.
 - 🔭 Seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/).
 - 🎯 Working with: **React**, **TypeScript**, **JavaScript**, **Postgress** and **Jest**.
-- 🌱 Currently learning **Docker** and **React Native**.
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
