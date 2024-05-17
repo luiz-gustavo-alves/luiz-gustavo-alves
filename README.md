@@ -81,7 +81,7 @@
         <img width="12"/> MongoDB
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="40" title="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="35" title="MySQL" />
         <img width="12"/> MySQL
       </td>
       <td>
@@ -93,7 +93,7 @@
         <img width="12" /> Redis
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="Entity Framework" height="40" title="Entity Framework"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="Entity Framework" height="35" title="Entity Framework"/>
         <img width="12" /> Entity .NET
       </td>
     </tr>
