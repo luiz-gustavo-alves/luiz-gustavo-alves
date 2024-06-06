@@ -9,7 +9,7 @@
 
 - 👀 I am quickly adaptable, self-independent and interested in latest software technologies.
 - 🔭 Seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/).
-- 🎯 Working with: **TypeScript**, **Next.js**, **React**, **Node.js**, and **Postgress**.
+- 🎯 Working with: **TypeScript**, **Next.js**, **React**, **Node.js**, and **Tailwind**.
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
@@ -20,10 +20,6 @@
 <table align="center">
   <tbody>
     <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" title="TypeScript" />
-        <img width="12" /> TypeScript
-      </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="Next.js" />
             <img width="12" /> Next.js
@@ -32,17 +28,21 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" title="React"/>
         <img width="12" /> React
       </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" title="TypeScript" />
+            <img width="12" /> TypeScript
+        </td>
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="30" title="Node.js"/>
         <img width="12" /> Node.js
       </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" height="30" title="Express"/>
+        <img width="12" /> Express
+      </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="30" title="C#"/>
-            <img width="12" /> C#
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" height="30" title=".NET"/>
-            <img width="12" /> .NET
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="30" title="Tailwind"/>
+            <img width="12" /> Tailwind
         </td>
     </tr>
     <tr>
@@ -66,23 +66,15 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" height="30" title="Grafana" />
             <img width="12" /> Grafana
         </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="Sentry" height="30" title="Sentry" />
-            <img width="12" /> Sentry
-        </td>
-    </tr>
-    <tr>
      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="30" title="Postgres" />
         <img width="12" /> Postgres
       </td>
+    </tr>
+    <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" title="MongoDB" />
         <img width="12"/> MongoDB
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="30" title="MySQL" />
-        <img width="12"/> MySQL
       </td>
       <td>
         <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="Prisma" height="30" title="Prisma" />
@@ -92,12 +84,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="30" title="Redis"/>
         <img width="12" /> Redis
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="Entity Framework" height="30" title="Entity Framework"/>
-        <img width="12" /> Entity .NET
-      </td>
-    </tr>
-      <tr>
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" title="JavaScript"/>
             <img width="12" /> JavaScript
@@ -106,10 +92,12 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30" title="HTML"/> 
             <img width="12" /> HTML
           </td>
-          <td>
+         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="30" title="CSS"/>
             <img width="12" /> CSS
           </td>
+    </tr>
+      <tr>
           <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" title="Python"/>
             <img width="12"/> Python
@@ -118,6 +106,14 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" title="C"/>
             <img width="12"/> C
           </td>
+         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="30" title="C#"/>
+            <img width="12" /> C#
+         </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" height="30" title=".NET"/>
+            <img width="12" /> .NET
+        </td>
       </tr>
   </tbody>
 </table>
