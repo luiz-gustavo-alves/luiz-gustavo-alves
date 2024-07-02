@@ -9,14 +9,14 @@
 
 - 👀 I am quickly adaptable, self-independent and interested in latest software technologies.
 - 🔭 Seventh period Computer Science student at [@unifesp](https://www.unifesp.br/campus/sjc/).
-- 🎯 Working with: **TypeScript**, **Next.js**, **React**, **Node.js**, and **Tailwind**.
+- 🎯 Working with: **TypeScript**, **Next.js**, **React**, **Node.js** and **Tailwind**.
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" height="20" /> Spanish
 
 <hr />
-<h3 align="center">Languages, Frameworks, Infrastructures and Tools</h3>
+<h3 align="center">Languages, Frameworks, Infrastructure and Tools</h3>
 <table align="center">
   <tbody>
     <tr>
@@ -47,6 +47,10 @@
     </tr>
     <tr>
         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" title="AWS"/>
+            <img width="12" /> AWS
+        </td>
+        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="30" title="Docker"/>
             <img width="12" /> Docker
         </td>
@@ -66,12 +70,12 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" height="30" title="Grafana" />
             <img width="12" /> Grafana
         </td>
-     <td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="30" title="Postgres" />
         <img width="12" /> Postgres
       </td>
-    </tr>
-    <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" title="MongoDB" />
         <img width="12"/> MongoDB
@@ -84,10 +88,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="30" title="Redis"/>
         <img width="12" /> Redis
       </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" title="JavaScript"/>
-            <img width="12" /> JavaScript
-         </td>
           <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30" title="HTML"/> 
             <img width="12" /> HTML
@@ -98,6 +98,10 @@
           </td>
     </tr>
       <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" title="JavaScript"/>
+            <img width="12" /> JavaScript
+         </td>
           <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" title="Python"/>
             <img width="12"/> Python
@@ -124,7 +128,7 @@
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luiz-gustavo-alves&show_icons=true&locale=en&theme=radical" alt="luiz-gustavo-alves" />
 </div>
 <hr/ >
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Contact</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/luizgustavoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luizgustavoalves.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
