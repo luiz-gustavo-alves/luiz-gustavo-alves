@@ -3,7 +3,7 @@
 
 - 🎯 I am quickly adaptable, self-independent and interested in latest software technologies.
 - 🎓 Bachelor in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
-- 🖥️ Working with: **Next.js**, **React**, **NestJS** and **Tailwind**.
+- 🖥️ Working with: **TypeScript**, **NestJS**, **Next.js**, **React** and **Tailwind**.
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
@@ -14,7 +14,15 @@
 <h3 align="center">Tech Stack</h3>
   <table align="center">
     <tbody>
-      <tr>
+       <tr>
+         <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" title="TypeScript" />
+          <img width="12" /> TypeScript
+         </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="30" title="NestJS" />
+          <img width="12" /> NestJS
+        </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="Next.js" />
           <img width="12" /> Next.js
@@ -26,20 +34,6 @@
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="30" title="Tailwind" />
           <img width="12" /> Tailwind
-        </td>
-       </tr>
-       <tr>
-         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" title="TypeScript" />
-          <img width="12" /> TypeScript
-         </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="30" title="NestJS" />
-          <img width="12" /> NestJS
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="30" title="Postgres" />
-          <img width="12" /> Postgres
         </td>
       </tr>
     </tbody>
@@ -74,11 +68,11 @@
           <img width="12" /> Postgres
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" title="MongoDB" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="30" title="MongoDB" />
           <img width="12" /> MongoDB
         </td>
         <td>
-          <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="Prisma" height="30" title="Prisma" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="30" title="Prisma" />
           <img width="12" /> Prisma
         </td>
         <td>
