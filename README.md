@@ -1,9 +1,9 @@
 <h1 align="center">👾 Luiz Gustavo Alves 👾</h1>
-<h3 align="center">Software Developer, Bachelor in Computer Science and Coffee Lover ☕</h3>
+<h3 align="center">Software Developer & Bachelor in Computer Science</h3>
 
 - 🎯 I am quickly adaptable, self-independent and interested in latest software technologies.
 - 🎓 Bachelor in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
-- 🖥️ Working with: **TypeScript**, **NestJS**, **Next.js**, **React** and **Tailwind**.
+- 🖥️ Working with: **TypeScript**, **NestJS**, **NextJS**, **React** and **Tailwind**.
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
@@ -24,8 +24,8 @@
           <img width="12" /> NestJS
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="Next.js" />
-          <img width="12" /> Next.js
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="NextJS" />
+          <img width="12" /> NextJS
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" title="React" />
@@ -41,7 +41,7 @@
 
   #
 
-  <h3 align="center">Infrastructure</h3>
+  <h3 align="center">Microservices</h3>
   <table align="center">
     <tbody>
       <tr>
@@ -50,8 +50,12 @@
           <img width="12" /> AWS
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="30" title="Docker" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="35" title="Docker" />
           <img width="12" /> Docker
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="25" title="RabbitMQ" />
+          <img width="12" /> RabbitMQ
         </td>
         </tr>
     </tbody>
@@ -172,7 +176,7 @@
 <hr />
 <h3 align="center">Contact</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/luizgustavoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-alves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luizgustavoalves.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
