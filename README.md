@@ -1,14 +1,20 @@
 <h1 align="center">👾 Luiz Gustavo Alves 👾</h1>
 <h3 align="center">Software Developer & Bachelor in Computer Science</h3>
 
-- 🎯 I am quickly adaptable, self-independent and interested in latest software technologies.
-- 🎓 Bachelor in Computer Science at [@unifesp](https://www.unifesp.br/campus/sjc/).
+- 🎯 I have 5 years of experience in tech & programming and 3 years of experience in Software Development.
+- 🎓 Bachelor in Computer Science at [UNIFESP](https://www.unifesp.br/campus/sjc/).
 - 🖥️ Working with: **TypeScript**, **NestJS**, **NextJS**, **React** and **Tailwind**.
+- 👀 Check it out my portfolio: [luizgustavoalves.dev](https://luizgustavoalves.dev).
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" height="20" /> Spanish
 
+<hr />
+<h3 align="center">Portfolio</h3>
+<div align="center">
+      <a href="https://luizgustavoalves.dev" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+</div>
 <hr />
 
 <h3 align="center">Tech Stack</h3>
@@ -63,7 +69,7 @@
 
   #
 
-  <h3 align="center">Databases and ORMs</h3>
+  <h3 align="center">Databases</h3>
   <table align="center">
     <tbody>
       <tr>
@@ -173,6 +179,7 @@
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luiz-gustavo-alves&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiz-gustavo-alves" />
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luiz-gustavo-alves&show_icons=true&locale=en&theme=radical" alt="luiz-gustavo-alves" />
 </div>
+
 <hr />
 <h3 align="center">Contact</h3>
 <div align="center">
