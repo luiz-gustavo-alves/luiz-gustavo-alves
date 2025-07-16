@@ -1,6 +1,6 @@
 <h1 align="center">👾 Luiz Gustavo Alves 👾</h1>
 
-- 🎯 Programmer with 5 years of experience and a Full Stack Developer (Backend & Frontend) with 3 years of experience
+- 🎯 Full Stack Developer with 3 years of experience in software development, with 5 years background in programming.
 - 🎓 Bachelor Degree in Computer Science at [UNIFESP](https://www.unifesp.br/campus/sjc/).
 - 🖥️ Working with: **TypeScript**, **Nest.js**, **Next.js**, **React** and **Tailwind**.
 - 👀 Check out my portfolio: [luizgustavoalves.dev](https://luizgustavoalves.dev).
