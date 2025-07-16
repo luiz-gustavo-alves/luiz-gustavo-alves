@@ -1,10 +1,9 @@
 <h1 align="center">👾 Luiz Gustavo Alves 👾</h1>
-<h3 align="center">Software Developer & Bachelor in Computer Science</h3>
 
-- 🎯 I have 5 years of experience in tech & programming and 3 years of experience in Software Development.
-- 🎓 Bachelor in Computer Science at [UNIFESP](https://www.unifesp.br/campus/sjc/).
-- 🖥️ Working with: **TypeScript**, **NestJS**, **NextJS**, **React** and **Tailwind**.
-- 👀 Check it out my portfolio: [luizgustavoalves.dev](https://luizgustavoalves.dev).
+- 🎯 Programmer with 5 years of experience and a Full Stack Developer (Backend & Frontend) with 3 years of experience
+- 🎓 Bachelor Degree in Computer Science at [UNIFESP](https://www.unifesp.br/campus/sjc/).
+- 🖥️ Working with: **TypeScript**, **Nest.js**, **Next.js**, **React** and **Tailwind**.
+- 👀 Check out my portfolio: [luizgustavoalves.dev](https://luizgustavoalves.dev).
 - ⚡ Fun fact: I speak 3 languages:
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
     - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
